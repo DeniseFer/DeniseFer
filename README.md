@@ -1,11 +1,22 @@
 <div align= center>
-<img height = 70 width = 40 src= "https://myoctocat.com/assets/images/base-octocat.svg"/>
+<img height = 350 width = 850 src= "https://user-images.githubusercontent.com/124710256/224446900-eb4d4e69-8676-48de-a8cc-887ef316cb73.jpg"/>
 </div>
+
+
+
+
+
+
+
+
+
+
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+MY+NAME+IS+DENISE+FERREIRA;Bem-vindo!)](https://git.io/typing-svg)
 
 
  <h3 align="center">Estudante do IFCE</h3>
+ 
 
 - 📚 Estou estudando JavaScript e Java
 
@@ -15,7 +26,7 @@
 
 - 📫 E-mail institucional: denise.ferreira08@aluno.ifce.edu.br
 
-</h3>
+
 
 <h3 align = center>
 
