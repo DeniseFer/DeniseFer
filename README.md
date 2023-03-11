@@ -74,12 +74,14 @@
 
 📚 Estudo Java, JavaScript e Python
   <div style="display: inline_block"><br>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
- <img height= 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img height = 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img height = 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <link rel="stylesheet" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+ <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" />
+ <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" />
           
 </div>    
+  
+
   
   
 
