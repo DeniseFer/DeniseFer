@@ -8,15 +8,15 @@
 
 
 
-
-🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 <h3 align = center>
+ 
+🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
  
  
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Futura&size=30&duration=2500&pause=1500&color=C93CCF&center=true&vCenter=true&width=500&height=100&lines=HI!+MY+NAME+IS+DENISE+FERREIRA;SEJA+BEM-VINDO!!!" alt="Typing SVG" /></a>
 
 
-
+🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
  
@@ -32,11 +32,11 @@
           
 </div>         
   
-- 📚 Estou estudando JavaScript e Java
+- 📚 Estou estudando Java, JavaScript e Python
 
 - 💻 Trabalhando em um novo repositório [Java](https://github.com/DeniseFer/DeniseFer/edit/main/README.md)
 
-- 👯 I’m looking to collaborate on [KesiaRocha](https://github.com/DeniseFer/DeniseFer/edit/main/README.md)
+- 👯 Estou colaborando com [Kesia Rocha](https://github.com/DeniseFer/DeniseFer/edit/main/README.md)
 
 - 📫 E-mail institucional: denise.ferreira08@aluno.ifce.edu.br
 
@@ -47,7 +47,13 @@
  
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeniseFer&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseFer&hide_progress=true&theme=radical)](https://github.com/DeniseFer/github-readme-stats)
+ <img height = 200 width= 200 src ="https://user-images.githubusercontent.com/124710256/224451694-20d18232-5a32-45f5-83b5-d8a83e069d62.gif" />
+
  </div>
  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseFer&hide_progress=true&theme=radical)](https://github.com/DeniseFer/github-readme-stats)
+ 
+ 
+ 
+ 
+ 
