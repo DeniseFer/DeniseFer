@@ -34,7 +34,7 @@
   
 - 📚 Estou estudando Java, JavaScript e Python
 
-- 💻 Trabalhando em um novo repositório [Java](https://github.com/DeniseFer/DeniseFer/edit/main/README.md)
+- 💻 Trabalhando em um novo repositório [Java](https://github.com/DeniseFer/TrabalhoPOO)
 
 - 👯 Estou colaborando com [Kesia Rocha](https://github.com/DeniseFer/DeniseFer/edit/main/README.md)
 
