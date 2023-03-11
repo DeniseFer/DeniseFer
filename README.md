@@ -22,10 +22,12 @@
  <div style="display: inline_block"><br>
  <h3 align = center> ⇣ </h3>
   <h3 align = center> ⇣ </h3>
+  
    
    
-  <h3 align = "center"> <img height = 100 widht = 200 src = "https://user-images.githubusercontent.com/124710256/224481877-ce87e930-5759-4053-8ff3-a6068570e1fb.gif"/> </h3>
+  <h3 align = "center"> <img height = 100 widht = 200 src = "https://user-images.githubusercontent.com/124710256/224484412-a8d44798-2183-441e-ad8d-78a0d5ef08c8.gif"/> </h3>
    
+  
    
   <h3 align = center> ⇣ </h3>
   <h3 align = center> ⇣ </h3>
