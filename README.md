@@ -1,5 +1,5 @@
 <div align= center>
-<img height = 350 width = 850 src= "https://user-images.githubusercontent.com/124710256/224447776-13be37fc-fa4f-4a3d-be91-b4844e931d57.jpg"/>
+<img height = 300 width = 850 src= "https://user-images.githubusercontent.com/124710256/224447776-13be37fc-fa4f-4a3d-be91-b4844e931d57.jpg"/>
 </div>
 
 
@@ -47,13 +47,17 @@
  
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeniseFer&show_icons=true&theme=radical)
- <img height = 200 width= 200 src ="https://user-images.githubusercontent.com/124710256/224451694-20d18232-5a32-45f5-83b5-d8a83e069d62.gif" />
+ <img height = 190 width = 350 src = "https://user-images.githubusercontent.com/124710256/224452495-12cffa35-ccf5-47eb-abb8-66796ed080e4.gif" />
+
 
  </div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseFer&hide_progress=true&theme=radical)](https://github.com/DeniseFer/github-readme-stats)
  
+ <h3 align = center>
+  
+  
  
- 
+<img height = 200 width= 200 src ="https://user-images.githubusercontent.com/124710256/224451694-20d18232-5a32-45f5-83b5-d8a83e069d62.gif" />
  
  
