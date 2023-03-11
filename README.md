@@ -19,30 +19,34 @@
 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
+ <div style="display: inline_block"><br>
+ <h3 align = center> ⇣ </h3>
+  <h3 align = center> ⇣ </h3>
+   
+   
+  <h3 align = "center"> <img height = 100 widht = 200 src = "https://user-images.githubusercontent.com/124710256/224481877-ce87e930-5759-4053-8ff3-a6068570e1fb.gif"/> </h3>
+   
+   
+  <h3 align = center> ⇣ </h3>
+  <h3 align = center> ⇣ </h3>
  
  
- <h3 align="center">
- 
- 
-<div style="display: inline_block"><br>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
- <img height= 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img height = 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img height = 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
-</div>         
+ <h3 align="center">  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=43&pause=1000&color=4C53F7&width=310&height=100&lines=QUEM+SOU+EU%3F" alt="Typing SVG" /></a> </h3>
   
-- 📚 Estou estudando Java, JavaScript e Python
-
+ 
+ <h3 align = center>
+  
+-  Uma estudante de Informática do IFCE - Fortaleza 
+  
 - 💻 Trabalhando em um novo repositório [Java](https://github.com/DeniseFer/TrabalhoPOO)
 
-- 👯 Estou colaborando com [Kesia Rocha](https://github.com/DeniseFer/DeniseFer/edit/main/README.md)
+- 👯 Estou colaborando com [Kesia Rocha](https://github.com/KesiaRocha)
 
 - 📫 E-mail institucional: denise.ferreira08@aluno.ifce.edu.br
-
-
-
-<h3 align = center>
+  </h3>
+  
+  <h3 align = center>
 <div style="display: inline_block"><br>
  
  
@@ -56,8 +60,35 @@
  
  <h3 align = center>
   
-  
  
-<img height = 200 width= 200 src ="https://user-images.githubusercontent.com/124710256/224451694-20d18232-5a32-45f5-83b5-d8a83e069d62.gif" />
+<h3 align = center> ⇣ </h3>
+  
+ <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=43&pause=1000&color=4C53F7&width=270&height=100&lines=LINGUAGENS" alt="Typing SVG" /></a> </h3>
+
+
+ 
+ <h3 align="center">
+ 
+
+📚 Estudo Java, JavaScript e Python
+  <div style="display: inline_block"><br>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ <img height= 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img height = 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img height = 30 width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+</div>    
+  
+  
+
+   <h3 align = center>💫</h3>
+   <h3 align = center>⇝FOLLOW⇜</h3>
+  
+<h3 align = center> <img height = 200 width= 350 src ="https://user-images.githubusercontent.com/124710256/224483869-08aee5c6-8b00-45b6-98b9-1e5d1759619c.gif" /> </h3>
+  
+   <h3 align = center>⇝ME!!⇜</h3>
+  <h3 align = center>💫</h3>
+ 
+
  
  
