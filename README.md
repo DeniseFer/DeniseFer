@@ -41,7 +41,7 @@
   
 -  Uma estudante de Informática do IFCE - Fortaleza 
   
-- 💻 Trabalhando em um novo repositório [Java](https://github.com/DeniseFer/TrabalhoPOO)
+- 💻 Trabalhando em um novo repositório [Java](https://github.com/DeniseFer/TrabalhoPOO_2023.1)
 
 - 👯 Estou colaborando com [Kesia Rocha](https://github.com/KesiaRocha)
 
