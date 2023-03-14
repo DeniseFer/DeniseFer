@@ -94,5 +94,5 @@
   <h3 align = center>💫</h3>
  
 
- 
+ ![snake gif](https://github.com/DeniseFer/DeniseFer/blob/output/github-contribution-grid-snake.svg)
  
