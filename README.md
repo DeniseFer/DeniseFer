@@ -94,3 +94,5 @@
   <h3 align = center>💫</h3>
  
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+
