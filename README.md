@@ -93,6 +93,4 @@
    <h3 align = center>⇝ME!!⇜</h3>
   <h3 align = center>💫</h3>
  
-
- ![snake gif](https://github.com/DeniseFer/DeniseFer/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
