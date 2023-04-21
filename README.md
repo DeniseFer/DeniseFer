@@ -41,6 +41,8 @@
   
 -  Uma estudante de Informática do IFCE - Fortaleza 
   
+-  16 Anos
+  
 - 💻 Trabalhando em um novo repositório [Java](https://github.com/DeniseFer/TrabalhoPOO_2023.1)
 
 - 👯 Estou colaborando com [Kesia Rocha](https://github.com/KesiaRocha)
