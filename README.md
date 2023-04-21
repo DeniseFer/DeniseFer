@@ -39,9 +39,9 @@
  
  <h3 align = center>
   
+-  🐱‍🐉 16 Anos
+
 -  Uma estudante de Informática do IFCE - Fortaleza 
-  
--  16 Anos
   
 - 💻 Trabalhando em um novo repositório [Java](https://github.com/DeniseFer/TrabalhoPOO_2023.1)
 
@@ -59,8 +59,7 @@
 
 
  </div>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseFer&hide_progress=true&theme=radical)](https://github.com/DeniseFer/github-readme-stats)
+
  
  <h3 align = center>
   
@@ -75,11 +74,21 @@
  
 
 📚 Estudo Java, JavaScript e Python
+
+ 
+ 
   <div style="display: inline_block"><br>
  <link rel="stylesheet" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" />
  <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" />
+ 
+ 
+ <div align="center">
+<a href="https://github.com/DeniseFer">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeniseFer&theme=radical"/> 
+</div>
+ 
           
 </div>    
   
