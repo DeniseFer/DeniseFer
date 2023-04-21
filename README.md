@@ -36,10 +36,13 @@
  <h3 align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=43&pause=1000&color=4C53F7&width=310&height=100&lines=QUEM+SOU+EU%3F" alt="Typing SVG" /></a> </h3>
   
- 
- <h3 align = center>
+  <h3 align="left"> Meu nome é Denise Ferreira...</h3>
   
--  🐱‍🐉 16 Anos
+ <h4 align = center>
+  
+  
+  
+-  🐱‍🐉 Tenho 16 Anos
 
 -  Uma estudante de Informática do IFCE - Fortaleza 
   
