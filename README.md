@@ -80,11 +80,6 @@
 
  
  
-  <div style="display: inline_block"><br>
- <link rel="stylesheet" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
- <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" />
- <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" />
  
  
  
@@ -93,7 +88,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=DeniseFer&layout=compact&card_width=400&hide_title=true&theme=radical&t&langs_count=9&hide_border=true"></a>&nbsp;
           
   
-  
+ <div style="display: inline_block"><br>
+ <link rel="stylesheet" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+ <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" />
+ <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" />
   
   
 </div>    
