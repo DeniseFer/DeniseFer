@@ -1,4 +1,4 @@
-<img src = "https://github.com/DeniseFer/DeniseFer/assets/124710256/4aba6016-99a0-4255-9ed0-a0ae077c4df8">
+<img src = "https://github.com/DeniseFer/DeniseFer/assets/124710256/1ddc5022-d8cd-4c31-89b9-ce032344b3d7">
 
 
 
