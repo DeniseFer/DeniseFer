@@ -4,7 +4,7 @@
 
 <h1 align="center">'Welcome' 👋</h1>
 
-- 😄 About me: **Hello, my name is Denise Ferreira. I'm 16 years old. I'm from Brazil. I'm a student at the Federal Institute of Ceará where I take the technical course in informatics where I'm currently (2023-1) in the 4rd period.
+- 😄 About me: **Hello, my name is Denise Ferreira. I'm 17 years old. I'm from Brazil. I'm a student at the Federal Institute of Ceará where I take the technical course in informatics where I'm currently (2024-1) in the 5th period.
 - 📖: The Bell Jar
   
 
